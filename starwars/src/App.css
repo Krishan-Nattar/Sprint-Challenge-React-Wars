@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  display:flex;
+  flex-direction: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  align-content: center;
+  align-items: center;
+  max-width: 60%;
+  flex-direction: column;
+}
+.buttons{
+  margin-bottom: 20px;
+}
+.cardgroup{
+  display:flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
 .Header {
   color: #443e3e;
